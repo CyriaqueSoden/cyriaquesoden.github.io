@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://www.cyriaquesoden.com/sitemap.xml
+Sitemap: https://www.cyriaquesoden.github.io/sitemap.xml
